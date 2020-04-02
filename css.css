@@ -1,0 +1,53 @@
+body{
+	font-family: roboto;
+}
+ 
+.ketengah{
+	margin: 10px auto;
+	width: 1500px;
+	padding-left: 20px;
+}
+.tampilan{
+	display: flex;
+}
+.intermediate{
+	margin: 10px auto;
+	width: 1500px;
+	padding: 20px;
+}
+h2{
+	font-family: verdana;
+	height: 100%;
+}
+ 
+p{
+	font-family: sans-serif;
+}
+.card {
+	border: 3px solid black;
+	padding-right: 10px;
+	border-radius: 15px;
+	box-shadow: 3px 4px grey;
+	margin-left: 50px;
+	padding-left: 10px;
+}
+.title {
+  	color: black;
+  	font-size: 22px;
+}
+.descriptions{
+	color: grey;
+	font-size: 15px;
+	text-align: left;
+}
+.instructor{
+	font-size: 12px;
+	color: grey;
+
+}
+.see{
+	padding-left: 40px;
+	padding-top: 100px;
+	font-size: larger;
+
+}
