@@ -1,0 +1,48 @@
+.title{
+    color: darkgreen;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: unset;
+}
+.Level{
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+.kategori{
+    display: flex;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.kartu{
+    border: 2px solid lightgray;
+    padding: 10px;
+    padding-top: 80px;
+    margin: 15px;
+    box-shadow: 4px 3px lightgray;
+    border-radius: 15px;
+    padding-right: 70px;
+    background-color: ivory;
+}
+.tema{
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.deskripsi{
+    font-size: medium;
+    color: grey;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.pemateri{
+    font-size: smaller;
+}
+.liatsmua{
+    padding-top: 100px;
+    padding-left: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+    color: green;
+}
